@@ -1,0 +1,11 @@
+{
+  "name": "tdd",
+  "author": "Soheil Nazari",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^1.4.0"
+  }
+}
